@@ -16,3 +16,8 @@ poc里面是验证s2-061靶场的，参数为id，新靶场参数为name
 ![b3f8c3552d8a7577358369546979eb4](https://user-images.githubusercontent.com/75877299/163654319-15c45139-121b-470f-acd4-3fde0631d539.png)
 
 ![63b34cd006f6daf25a6972f7f0ca4e1](https://user-images.githubusercontent.com/75877299/163654325-9b3df7c7-e528-4fe4-b0d1-0b6687ce9700.png)
+
+
+针对无回显的
+![image](https://user-images.githubusercontent.com/75877299/163706557-95fdbc8b-cc08-492d-9650-d8499c7c3111.png)
+![image](https://user-images.githubusercontent.com/75877299/163706568-4bc8508a-3cf2-4dca-aebb-d198fd64e8af.png)
